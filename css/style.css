@@ -1,0 +1,55 @@
+body{
+    font: 15px times ;
+}
+
+.navbar{
+    background-color: #b7ac44a4;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+/*----------------------------------------------------------------------------------------*/
+
+.logo-img{
+    left: 30px;
+    position: relative;
+}
+
+.nav-link{
+    font: 18px times;
+    font-weight: bold;
+    position: relative;
+    left: 375px;
+}
+
+/*----------------------------------------------------------------------------------------*/
+
+.img-equipe{
+    border-radius: 15%;
+}
+
+.texto{
+    padding-left: 20px;
+    padding-top: 75px;
+}
+
+/*----------------------------------------------------------------------------------------*/
+
+.parceiros{
+    background-color: #ff84008f;
+}
+
+.titulo-parceiros{
+    color: #FF4500;
+    font: 20px;
+}
+
+/*----------------------------------------------------------------------------------------*/
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
